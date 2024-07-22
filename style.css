@@ -1,0 +1,129 @@
+<style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    position: relative;
+    width: 2300px;
+    height: 250px;
+    background-color: #D4D2F2;
+    color: rgb(255, 255, 255);
+    padding: 10px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.icon {
+    position: absolute;
+    margin-top: 10px;
+    border: 5px solid ;
+    border-color: rgb(72, 0, 255);
+    top: 3%;
+    left: 3%;
+}
+.texthead {
+    position: absolute;
+    top: 30%;
+    left: 22%;
+    width: 88%;
+    padding-left: 20px;
+}
+#h1{
+    color: black;
+    font-size: 36px;
+    font-weight: 800;
+}
+.box{
+    width: 100%;
+    background-color: #b3e5fc;
+    padding: 30px 30px 30px 30px;
+    left: 2%;
+}
+.boxinfo{
+    background-color: #fff59d;
+    border: 10px solid #fff59d;
+    width: 90%;
+    position: relative;
+    margin-left: 6%;
+}
+.boxinfop1{
+    border: 3px solid ;
+    width: 30%;
+    text-align: center;
+    background-color: white
+}
+.boxinfop2{
+    border: 3px solid ;
+    width: 30%;
+    position: absolute;
+    left: 35%;
+    top: 0;
+    text-align: center;
+    background-color: white
+}
+.boxinfop3{
+    border: 3px solid ;
+    width: 30%;
+    left: 70%;
+    top: 0;
+    position: absolute;
+    text-align: center;
+    background-color: white
+}
+.divmv{
+    position: relative;
+    height: 500px;
+    width: 100%;
+    }
+
+    .divcon{
+    position: absolute;
+    width: 50%;
+    height: 90%;
+    border: 3px solid #FCF6BD;
+    top: 5%;
+    left: 5%;
+    text-align: center;
+    }
+
+    .divimg{
+    position: absolute;
+    border: 5px solid #FCF6BD;
+    width: 31%;
+    height: 70%;
+    top: 5%;
+    left: 68%;
+    }
+
+    .divimgdiv{
+    width: 100%;
+    height: 100%;
+    }
+    
+    .divBackHome{
+        position: absolute;
+        top: 90%;
+        left: 80%;
+    }
+
+        .footer-section {
+        margin: 0 20px;
+        }
+    
+        .footer-section h3 {
+        margin-bottom: 17px;
+        font-size: 20px;
+        text-transform: uppercase;
+        }
+    
+        .footer-bottom {
+        text-align: center;
+        margin-top: 20px;
+        border-top: 2px solid #555;
+        padding-top: 10px;
+        }
+    
+        .footer-bottom p {
+        font-size: 14px;
+        }
+</style>
